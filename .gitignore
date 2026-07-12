@@ -10,7 +10,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data files (downloaded datasets, kept out of git for now)
-Beginner/AirlineTweets.csv
+Beginner/Sentiment_analysis/AirlineTweets.csv
 Beginner/Text_Generation/robert_frost.txt
 # *.xlsx
 # *.xls
